@@ -10,6 +10,7 @@ const int SIZE = 10;
 // Nguyen Hoang Bao
 // COMP2001 Lab1
 
+
 struct MovieRec {
 	int year;
 	string name;
